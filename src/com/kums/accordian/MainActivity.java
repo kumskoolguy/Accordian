@@ -30,13 +30,8 @@ public class MainActivity extends ListActivity implements OnClickListener {
 		panel3 = (LinearLayout) findViewById(R.id.panel3);
 		panel4 = (LinearLayout) findViewById(R.id.panel4);
 		panel5 = (LinearLayout) findViewById(R.id.panel5);
-
 		// panel1.setVisibility(View.VISIBLE);
-
 		// panel1.setVisibility(View.VISIBLE);
-
-		// Log.v("CZ","height at first ..." + panel1.getMeasuredHeight());
-
 		text1 = (TextView) findViewById(R.id.text1);
 		text2 = (TextView) findViewById(R.id.text2);
 		text3 = (TextView) findViewById(R.id.text3);
